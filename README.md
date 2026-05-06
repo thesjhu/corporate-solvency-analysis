@@ -20,14 +20,12 @@ The Altman Z-Score is a multivariate statistical formula used to predict the pro
 *   **Comparative Benchmarking:** Evaluates multiple tickers simultaneously to compare industry leaders against distressed entities.
 *   **Data Visualization:** Utilizes Seaborn and Matplotlib to create executive-level dashboards with clear risk thresholds.
 
----
+![chart](chart1.png)
 
 ### **Technical Stack**
 *   **Language:** Python 3.x
 *   **Libraries:** Pandas, NumPy, Seaborn, Matplotlib
 *   **API:** Yahoo Finance (yfinance)
-
----
 
 ### **Installation & Usage**
 
@@ -45,13 +43,9 @@ pip install pandas numpy matplotlib seaborn yfinance
 **3. Execution**
 Run the Jupyter Notebook `corporate_solvency_analysis.ipynb` to view the analysis. You can modify the `tickers` list in the second cell to analyze any publicly traded company.
 
----
-
 ### **Key Insights**
 *   Successfully identified the divergence in solvency between high-growth tech firms and capital-intensive industries.
 *   Demonstrated how market capitalization volatility (Variable D) can drastically shift a company's risk profile even when operational metrics remain stable.
-
----
 
 ### **Author**
 **Sijie Hu**  
