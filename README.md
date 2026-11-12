@@ -31,8 +31,8 @@ The Altman Z-Score is a multivariate statistical formula used to predict the pro
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/thesjhu/corporate-solvency-analytics.git
-cd corporate-solvency-analytics
+git clone https://github.com/thesjhu/corporate-solvency-analysis.git
+cd corporate-solvency-analysis
 ```
 
 **2. Install dependencies**
